@@ -1,4 +1,4 @@
 # abdulla-demo
-This is my firs demo
+This is my first demo
 <br>
 Author-Abdulla
